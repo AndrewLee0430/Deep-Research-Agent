@@ -34,7 +34,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/deep-research.git
+git clone https://github.com/AndrewLee0430/deep-research.git
 cd deep-research
 
 # 2. Install dependencies
@@ -50,7 +50,7 @@ python app.py
 
 ### Option 2: Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/deep-research/blob/main/Deep_Research_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AndrewLee0430/deep-research/blob/main/Deep_Research_Colab.ipynb)
 
 1. Click the badge above
 2. Add your OpenAI API key when prompted
