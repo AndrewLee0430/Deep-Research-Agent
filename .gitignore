@@ -1,0 +1,22 @@
+# 憑證與環境變數 (最重要！)
+.env
+*.env
+__pycache__/
+*.py[cod]
+
+# Python 虛擬環境
+venv/
+.venv/
+env/
+
+# OS 系統垃圾檔案
+.DS_Store
+Thumbs.db
+
+# 開發工具設定
+.vscode/
+.idea/
+
+# 測試與紀錄
+.pytest_cache/
+*.log
